@@ -1,16 +1,13 @@
-## Hi there 👋
+### Bem vindo ao meu perfil⭐
 
-<!--
-**alunoOx/AlunoOx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Arilson Dias 
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na área de JavaScript
+- Utilizo esse espaço como forma de me organizar e compartilhar projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo por 📫
+
+(xx)12345-6789
+
+![](https://media1.tenor.com/m/OG_jTuw2UAsAAAAC/pingu-angry.gif)
