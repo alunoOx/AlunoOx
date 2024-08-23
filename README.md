@@ -2,7 +2,7 @@
 
 Meu nome é Arilson Dias 
 
-- Estou estudando na [alura](https://www.alura.com.br)
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na área de JavaScript
 - Utilizo esse espaço como forma de me organizar e compartilhar projetos
 
